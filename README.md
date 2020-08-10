@@ -10,5 +10,5 @@ oh-my-zsh
 virtualenv
 virtualenvwrapper
 screen
-
+SourceCodePro+Powerline Font
 
